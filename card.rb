@@ -17,9 +17,6 @@ def hide
   if @face == true
 #show hidden grid index? 
 
-end
-
-
 
 
 
